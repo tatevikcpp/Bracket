@@ -38,7 +38,9 @@ bool Bracket::isValid(const string &s)
 	{
 		cout << " - valid" << endl;
 	}
-	else {
+	
+	else 
+	{
 		cout << " - invalid" << endl;
 	}
   
